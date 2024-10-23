@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\bin\Debug\net8.0\Abstractions.exe
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\bin\Debug\net8.0\Abstractions.deps.json
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\bin\Debug\net8.0\Abstractions.runtimeconfig.json
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\bin\Debug\net8.0\Abstractions.dll
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\bin\Debug\net8.0\Abstractions.pdb
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.dll
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\refint\Abstractions.dll
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.pdb
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\Abstractions.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Abstractions\Abstractions\obj\Debug\net8.0\ref\Abstractions.dll
